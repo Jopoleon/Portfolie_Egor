@@ -1,0 +1,49 @@
+body {
+  color: #222;
+  letter-spacing: 1px;
+}
+
+a {
+  color: #507299;
+}
+
+p {
+  color: #888;
+}
+
+.color_element {
+  color: #B96320;
+}
+
+.color_bg {
+  background-color: #B96320;
+}
+
+.color_border {
+  border-color: #B96320;
+}
+
+.bg_light {
+  background-color: #FAFAFA;
+}
+
+.bg_dark {
+  background-color: #393434;
+}
+
+path {
+  fill: #DCDCDC;
+}
+
+.toggle_mnu {
+  background-color: #222;
+}
+
+.top_mnu a:hover {
+  color: #B96320;
+}
+
+.top_text p {
+  color: #FAFAFA;
+  letter-spacing: 5px;
+}
